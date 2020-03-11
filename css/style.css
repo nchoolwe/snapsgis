@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+    background-color: #f3f7f9;
+}
+#top-nav {
+    padding: 0rem;
+    font-size: 14px;
+}
+.nav-link:hover {
+    background-color: #e94621;
+}
+.bg-dark {
+    background-color: #f3f7f9 !important;
+}
+#nav-bg li {
+    padding-right: 20px;
+}
+.fa-facebook {
+    color: #3b5998;
+}
+.fa-twitter {
+    color: #00aced;
+}
+.fa-instagram {
+    color: #517fa4;
+}
+.fa-envelope, .fa-phone, .fa-headphones {
+    color: #e94621;
+}
+.snapsgis {
+    width: 90rem;
+    height: 35rem;
+}
+.jumbotron {
+    padding: 1rem;
+    border-radius: 0;
+    background-color: #1d2139;
+    color: white;
+}
+.snaps-pic {
+    width: 200px;
+    height: 200px;
+}
+.btn-primary {
+    background-color: #1d2139 !important;
+}
+.snaps-modal {
+    font-size: 14px;
+}
+hr.light {
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+.padding {
+    padding-bottom: 2rem;
+}
+.carousel-caption {
+    bottom: 270px;
+}
+.list {
+    list-style-type: none;
+}
+.list i {
+    color: #e94621;
+}
+.card-header {
+    background-color: #e94621 !important;
+    color: white;
+}
+.code {
+    list-style-type: none;
+}
+.fa-html5 {
+    color: #e54d26;
+}
+.fa-bootstrap {
+    color: #563d7c;
+}
+.fa-css3 {
+    color: #2163af;
+}
+.fa-js {
+    color: yellow;
+}
+.fa-php {
+    color: rebeccapurple;
+}
+.fa-python {
+    color: #9ccc65;
+}
+.fa-rss {
+    color: darkslateblue;
+}
+.fa-database {
+    color: silver;
+}
+.fa-html5, .fa-css3, .fa-python, .fa-js, .fa-rss, .fa-php, .fa-database, .fa-bootstrap {
+    font-size: 1rem;
+    margin: .8rem;
+}
+#snaps-logo{
+    font-family: "Brush Script MT";
+    font-size: 25px;
+}
